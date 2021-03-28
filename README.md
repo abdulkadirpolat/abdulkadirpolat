@@ -7,3 +7,5 @@ I'm Front-end Developer and caffeine addicted :coffee:
 <p>
 
 - ✉️ Say hi! <b><a href="mailto:tr.abdulkadir.polat@hotmail.com">tr.abdulkadir.polat@hotmail.com</a></b>
+
+![Aabdulkadir's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulkadirpolat&show_icons=true)
