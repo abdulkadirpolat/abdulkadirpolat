@@ -5,6 +5,7 @@ I'm Front-end Developer and caffeine addicted :coffee:
 <p> <a href="https://www.linkedin.com/in/abdulkadir-polat-1b282b1b7/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
  </p>
 <p>
+ <p>![](https://komarev.com/ghpvc/?username=abdulkadirpolat) </p>
 
 - ✉️ Say hi! <b><a href="mailto:tr.abdulkadir.polat@hotmail.com">tr.abdulkadir.polat@hotmail.com</a></b>
 
