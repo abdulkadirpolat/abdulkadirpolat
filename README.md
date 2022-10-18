@@ -1,6 +1,6 @@
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-I'm Front-end Developer and caffeine addicted :coffee:
+I'm Front-end Developer
 
 <p> <a heigth= "25" href="https://www.linkedin.com/in/abdulkadir-polat-1b282b1b7/" target="_blank"><img style= "border-radius:6px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 <a style="margin-left:5px" href= "https://abdulkadirpolat.net/" >
